@@ -1,57 +1,62 @@
-EdTech Platform Mobile App
-Project Overview
-A React Native Expo-based EdTech platform with role-based authentication and dashboards for teachers and students.
-Prerequisites
+# 📚 EdTech Platform Mobile App
 
-Node.js (v18+)
-npm or yarn
-Expo CLI
+A dynamic and responsive **EdTech Platform** built with **React Native** and **Expo**, featuring role-based authentication and tailored dashboards for teachers and students. 🚀
 
-Setup Instructions
+---
 
-Clone the repository
-Install dependencies:
+## 🌟 Project Features
 
-bashCopynpm install
-# or
-yarn install
+- **📖 Role-Based Authentication**:  
+  Login and signup functionality for **Teachers** and **Students** with personalized dashboards.
+  
+- **🛠 Teacher Dashboard**:  
+  Features to create posts, view mock statistics, and manage students.
 
-Start the development server:
+- **🎓 Student Dashboard**:  
+  Access to course materials, notifications, and completed tasks.
 
-bashCopynpx expo start
-Project Features
+- **📰 Home Screen**:  
+  A scrollable feed showcasing posts or announcements relevant to the platform.
 
-Role-based authentication (Teacher/Student)
-Separate dashboards for teachers and students
-Scrollable posts/announcements
-Responsive design
+- **📱 Responsive Design**:  
+  Optimized UI for various screen sizes and orientations.
 
-Tech Stack
+---
 
-React Native
-Expo
-React Navigation
-Context API for state management
-Async Storage for local authentication
+## 🛠 Tech Stack
 
-Running the App
+- **React Native**  
+  For cross-platform mobile app development.
 
-Use Expo Go app on iOS/Android
-Or run on simulator/emulator
-Scan QR code in terminal
+- **Expo**  
+  To streamline development and testing.
 
-Folder Structure
-Copy/src
-├── components/
-├── screens/
-├── navigation/
-├── context/
-├── utils/
-└── assets/
-Future Enhancements
+- **React Navigation**  
+  For seamless and intuitive navigation.
 
-Implement backend integration
-Add more robust state management
-Improve error handling
-Add more comprehensive role-based features
+- **Context API**  
+  Lightweight state management for authentication and roles.
 
+- **Async Storage**  
+  Local storage solution for persisting authentication data.
+
+---
+
+## 🚀 Quick Start Guide
+
+### Prerequisites
+Ensure you have the following installed:
+- **Node.js** (v18+)
+- **npm** or **yarn**
+- **Expo CLI**  
+
+### Setup Instructions
+1. **Clone the Repository**:  
+   ```bash
+   git clone <repository-url>
+   cd Ed
+
+## 🌟 Screen Recording
+
+[![Watch the video](https://img.youtube.com/vi/WWZh6WpBZDk/maxresdefault.jpg
+)](https://youtube.com/shorts/WWZh6WpBZDk)
