@@ -4,6 +4,10 @@ A dynamic and responsive **EdTech Platform** built with **React Native** and **E
 
 ---
 
+## 🌟 Screen Recording
+
+https://github.com/user-attachments/assets/56c42dc5-ed9d-4757-8bc1-2c74077666a8
+
 ## 🌟 Project Features
 
 - **📖 Role-Based Authentication**:  
@@ -55,10 +59,6 @@ Ensure you have the following installed:
    ```bash
    git clone <repository-url>
    cd Ed
-
-## 🌟 Screen Recording
-
-https://github.com/user-attachments/assets/56c42dc5-ed9d-4757-8bc1-2c74077666a8
 
 
 
