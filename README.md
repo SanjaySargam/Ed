@@ -58,5 +58,7 @@ Ensure you have the following installed:
 
 ## 🌟 Screen Recording
 
-[![Watch the video](https://img.youtube.com/vi/WWZh6WpBZDk/maxresdefault.jpg
-)](https://youtube.com/shorts/WWZh6WpBZDk)
+https://github.com/user-attachments/assets/56c42dc5-ed9d-4757-8bc1-2c74077666a8
+
+
+
